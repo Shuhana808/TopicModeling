@@ -1,0 +1,6 @@
+nltk== 3.5
+gensim==3.8.0
+pandas==1.1.1
+Pattern== 3.6
+pattern3==3.0.0
+bangla-stemmer==1.0
